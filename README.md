@@ -67,6 +67,8 @@ json
     "zip_code": "12345"
   }
 }
+
+
 Response:
 Returns a JSON response with the details of the created order.
 
