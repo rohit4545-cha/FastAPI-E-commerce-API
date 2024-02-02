@@ -12,8 +12,8 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/yourusername/ecommerce-fastapi.git
-cd ecommerce-fastapi
+git clone https://github.com/rohit4545-cha/FastAPI-E-commerce-API.git
+cd FastAPI-E-commerce-API
 Install the dependencies:
 
 
